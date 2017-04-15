@@ -1,0 +1,26 @@
+{
+  "name": "nodeagent",
+  "version": "1.0.0",
+  "description": "A NodeMCU IDE like ESPlorer built on top of Node.js and Electron",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skayo/NodeAgent.git"
+  },
+  "keywords": [
+    "esplorer",
+    "esp8266",
+    "nodemcu",
+    "nodejs",
+    "electron-app"
+  ],
+  "author": "Skayo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Skayo/NodeAgent/issues"
+  },
+  "homepage": "https://github.com/Skayo/NodeAgent#readme"
+}
